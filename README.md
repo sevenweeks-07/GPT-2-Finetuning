@@ -1,4 +1,4 @@
-# GPT-2 Fine-Tuning 🤖
+# GPT-2 Fine-Tuning 
 
 A personal project focused on learning the fundamentals of fine-tuning Large Language Models (LLMs). In this repository, I successfully fine-tuned a lightweight GPT-2 model to understand and generate text based on a conversational dataset.
 
